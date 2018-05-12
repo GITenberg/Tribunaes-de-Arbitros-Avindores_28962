@@ -1,0 +1,29 @@
+_repo: Tribunaes-de-Arbitros-Avindores_28962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastos, Teixeira
+    aliases:
+    - Teixeira Bastos, Francisco Jose
+    - Teixeira Bastos, Francisco José
+    birthdate: 1857
+    deathdate: 1902
+    gutenberg_agent_id: '26682'
+    url: http://www.gutenberg.org/2009/agents/26682
+description: ''
+gutenberg_issued: '2009-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28962'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KJ'
+- !lcsh 'Arbitration, Industrial -- Portugal'
+title: Tribunaes de Arbitros-Avindores
+url: http://www.gutenberg.org/ebooks/28962
